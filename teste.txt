@@ -3,3 +3,5 @@ Tesde de versionamento Git
 eu sou nova linha
 
 Nova branch staging
+
+b para c 
