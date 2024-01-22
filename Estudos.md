@@ -49,6 +49,9 @@ Histórico de alterações comitadas (commit story)
 - git checkout -b 'nova-feature' (nesse comando vc entra e cria a branch)
 - git status
 - git add coloca as informações no stage
+- git branch -M 'novo nome' - (renomeia a branch atual)
+- git remote add origin 'url do repositório' (informa o diretório que vamos conectar)
+- git remote get-url origin
 
 ## [Curso de Git e GitHub - 2023] Aula 4: setup e configuração do ambiente de programação para GIT
 
@@ -91,6 +94,11 @@ Dica: padrão para repositórios do git 'nome-sobrenome'
 Branch 'MASTER' normalmente é uma branch que vai existir para longo prazo. 
 
 Como eu escolho somente uma única modificação para ir para o commit: git restore --staged <nome do arquivo>
+
+Primeira vez que vc digita o comando push você tem que digitar: git push -u origin main
+
+Vc informa aqui qual a push que você quer subir
+
 
 
 
