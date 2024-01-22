@@ -88,6 +88,12 @@ M - Diz que o arquivo foi modificado
 
 Dica: padrão para repositórios do git 'nome-sobrenome'
 
+Branch 'MASTER' normalmente é uma branch que vai existir para longo prazo. 
+
+Como eu escolho somente uma única modificação para ir para o commit: git restore --staged <nome do arquivo>
+
+
+
 - Merge
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
