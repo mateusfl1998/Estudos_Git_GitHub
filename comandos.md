@@ -11,26 +11,44 @@ Visto:
 - Git
 - Subversion (SVN) - Tortoise SVN
 - 
+
 #####  Plataformas hospedagem de códigos em nuvem:
 - GitLab
 - GitHub
 - SourceForge
+- 
+**Outros pontos importantes da aula:**
+**CLI:** COMAND LINE INTERFACE
+**CD:** CHANGE DIRECTORY 
 
-# Comandos Git GitHub
+# [Curso de Git e GitHub - 2023] Aula 2: Monitoramento de estados e ambientes
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+**Como funciona:** Alterações realizadas no meu código (salvo) >> Escolher o que eu quero comitar(STAGE) >> Dou o  Commit >> Tenho os históricos de commits
 
+Histórico de alterações comitadas (commit story)
+
+# [Curso de Git e GitHub - 2023] Aula 3: Principais comandos GIT
+
+- git init (inicia o repositório)
 - Git clone <nome_do_repositório>
 - git branch <nome_da_branch> (cria uma nova branch)
+- git push - envia as alterações]
+- git log (visualizar histório de alterações)
+- git stash
+- git diff (verifica as diferenças dos códigos)
+- git pull - puxa as alterações
+- git merge 
 - git branch (verifica as branches local)
 - git branch -a (vê as branchs remotas)
 - git add . (adiciona o arquivo ao controle de versão)
 - git log (lista de commits que já foram feitas) 
 - git log - -  pretty=oneline ()
 - git checkout -b 'nova-feature' (nesse comando vc entra e cria a branch)
+- git status
+- git add coloca as informações no stage
 
-## [Curso de Git e GitHub - 2023] Aula 7: Pull Requests
+## [Curso de Git e GitHub - 2023] Aula 4: setup e configuração do ambiente de programação para GIT
+
 
 
 - Import a HTML file and watch it magically convert to Markdown
