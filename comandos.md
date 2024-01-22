@@ -1,3 +1,6 @@
+#### Fazer:
+- Tentar fazer as alterações
+
 ## [Curso de Git e GitHub - 2023] Aula 1: Versionamento de Código
 
 O sistema de controle de versão de código serve para 2 ou mais pessoas irem trabalhando simultâneamente num código! 
@@ -75,6 +78,13 @@ Seja mais direto possível no título. No corpo do texto descreva o motivo da mu
 
 
 # [Curso de Git e GitHub - 2023] Aula 5.1: na prática - git commit, add, push e outros.
+
+README.MD é a explicação do repositório. Data, como foi feito, como usar e etc!
+
+Quando os arquivos da direita estão verdes significa que eles não estão sendo rastreados pelo git. Você tem que digitar 'git commit'   
+
+A - Fica index add. Fala que o arquivo 
+M - Diz que o arquivo foi modificado 
 
 Dica: padrão para repositórios do git 'nome-sobrenome'
 
