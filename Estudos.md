@@ -101,24 +101,9 @@ Vc informa aqui qual a push que você quer subir
 
 
 
+## [Curso de Git e GitHub - 2023] Aula 5.2: na prática - como analisar o histórico de commits
 
-- Merge
-- [AngularJS] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
-- [markdown-it] - Markdown parser done right. Fast and easy to extend.
-- [Twitter Bootstrap] - great UI boilerplate for modern web apps
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [Gulp] - the streaming build system
-- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
-to Markdown converter
-- [jQuery] - duh
-
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
-
-## [Curso de Git e GitHub - 2023] Aula 5.1: na prática - git commit, add, push e outros.
-
+git 
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
