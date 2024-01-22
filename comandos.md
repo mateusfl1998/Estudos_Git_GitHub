@@ -23,7 +23,7 @@ Visto:
 
 # [Curso de Git e GitHub - 2023] Aula 2: Monitoramento de estados e ambientes
 
-**Como funciona:** Alterações realizadas no meu código (salvo) >> Escolher o que eu quero comitar(STAGE) >> Dou o  Commit >> Tenho os históricos de commits
+**Como funciona:** Alterações realizadas no meu código (Eu salvo com CTRL P) >> Escolher o que eu quero comitar(STAGE) - ISSO É O GIT ADD. >> Dou o  Commit >> Tenho os históricos de commits
 
 Histórico de alterações comitadas (commit story)
 
@@ -49,31 +49,34 @@ Histórico de alterações comitadas (commit story)
 
 ## [Curso de Git e GitHub - 2023] Aula 4: setup e configuração do ambiente de programação para GIT
 
+> Instale as seguintes extensões no visual estudio code: Git Graph e o Git History
+
+## [Curso de Git e GitHub - 2023] Aula 5: git commit
+
+Dica 1 : adicione apenas as mudanças certas ao commit. 
+Dica 2: evite fazer um único commit para todo o código escrito.
+
+**Controlando o que vai ser ou não commitado:**
+1 - git diff: visualizar as alterações
+2 - git status: para ver as alterações vão ser comitadas
+3 - git add: para adicionar as alterações ao commit.
+
+Dica: escrever commit: git commit -m 'titulo' -m 'corpo do texto'
+Seja mais direto possível no título. No corpo do texto descreva o motivo da mudança, informações extras, cuidados, alertas. O corpo do texto pode ser mais detalhado.
+
+**Git ignore:** os arquivos que não devem ser comitados você precisa coloca-los aqui.env.(dotenv    )
+
+### Fluxo do git commit:
+ - salvar código
+ - dar git add (adiciona ao stage)
+ - git commit (comita localmente)
+ - git push (joga para nuvem)
 
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
+# [Curso de Git e GitHub - 2023] Aula 5.1: na prática - git commit, add, push e outros.
 
-> The overriding design goal for Markdown's
-> formatting syntax is to make it as readable
-> as possible. The idea is that a
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
-# Conceitos
+Dica: padrão para repositórios do git 'nome-sobrenome'
 
 - Merge
 - [AngularJS] - HTML enhanced for web apps!
@@ -90,7 +93,8 @@ to Markdown converter
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
 
-## Installation
+## [Curso de Git e GitHub - 2023] Aula 5.1: na prática - git commit, add, push e outros.
+
 
 Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
