@@ -1,3 +1,21 @@
+## [Curso de Git e GitHub - 2023] Aula 1: Versionamento de Código
+
+O sistema de controle de versão de código serve para 2 ou mais pessoas irem trabalhando simultâneamente num código! 
+- Registra o histórico de mudanças!
+- Últil para enteder o que foi feito e quando foi feito!
+
+#####  Plataformas de versionamento de código:
+Visto:
+> É instalada na máquina local, o Git Hub é apenas o armazenamento de código em núvem!
+
+- Git
+- Subversion (SVN) - Tortoise SVN
+- 
+#####  Plataformas hospedagem de códigos em nuvem:
+- GitLab
+- GitHub
+- SourceForge
+
 # Comandos Git GitHub
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
@@ -9,10 +27,11 @@ AngularJS-powered HTML5 Markdown editor.
 - git branch -a (vê as branchs remotas)
 - git add . (adiciona o arquivo ao controle de versão)
 - git log (lista de commits que já foram feitas) 
-- git log -- pretty=oneline ()
+- git log - -  pretty=oneline ()
 - git checkout -b 'nova-feature' (nesse comando vc entra e cria a branch)
 
-## Features
+## [Curso de Git e GitHub - 2023] Aula 7: Pull Requests
+
 
 - Import a HTML file and watch it magically convert to Markdown
 - Drag and drop images (requires your Dropbox account be linked)
@@ -36,10 +55,9 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-## Tech
+# Conceitos
 
-Dillinger uses a number of open source projects to work properly:
-
+- Merge
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
 - [markdown-it] - Markdown parser done right. Fast and easy to extend.
