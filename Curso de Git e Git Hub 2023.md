@@ -101,11 +101,11 @@ Vc informa aqui qual a push que você quer subir
 
 
 
-## [Curso de Git e GitHub - 2023] Aula 5.2: na prática - como analisar o histórico de commits
+# [Curso de Git e GitHub - 2023] Aula 5.2: na prática - como analisar o histórico de commits
 
 git blame
 
-## [Curso de Git e GitHub - 2023] Aula 6: o que são branches?
+# [Curso de Git e GitHub - 2023] Aula 6: o que são branches?
 
 Modelos de Controle de Versão:
 
