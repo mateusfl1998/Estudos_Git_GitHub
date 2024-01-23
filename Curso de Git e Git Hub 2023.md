@@ -103,24 +103,45 @@ Vc informa aqui qual a push que você quer subir
 
 ## [Curso de Git e GitHub - 2023] Aula 5.2: na prática - como analisar o histórico de commits
 
-git 
+git blame
 
-Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
+## [Curso de Git e GitHub - 2023] Aula 6: o que são branches?
 
-Install the dependencies and devDependencies and start the server.
+Modelos de Controle de Versão:
 
-```sh
-cd dillinger
-npm i
-node app
+Branches Únicas, Git Flow, GitHub Flow
+
+Existem básicamente Branches de stats (que não mexe, branch de versões de software e branch de fetarures ( para criar um funcionalidade nova dentro do aplicativo e nao arriscar a estabilidade da branch principal))
+
+```
+Branchs são trilha de commits! Trilho/árvore
+
+Pode ter propósitos destintos: para fazer testes
 ```
 
-For production environments...
-
-```sh
-npm install --production
-NODE_ENV=production node app
 ```
+Branches "long-running": são branches que ficam vivas por longo tempo. "main"  e "develop"
+```
+
+```
+Branches "shoted.lived": implementar funções ou corrigir bugs
+```
+### TIPOS DE BRANCH:
+
+**Branch única:** normalmente usada quando somente uma pessoa está mexendo no código! Muito comum em projetos pessoais
+
+Veja como funciona o GitHubFlow: https://prnt.sc/5IuPyoIpeP0O
+
+Depois vc dá um merge de uma branch para outra.
+
+**GitHub Flow:** modelo gitflow: https://prnt.sc/FpS3_mY0A8Lb
+
+resumindo: existe alguns tipos de branch, as mais usadas são branch de features e branchs de fix. 
+
+## [Curso de Git e GitHub - 2023] Aula 6.1: na prática - git push, pull requests & code reviews.
+
+
+
 
 ## Plugins
 
