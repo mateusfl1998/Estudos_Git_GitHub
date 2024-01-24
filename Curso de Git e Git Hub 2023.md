@@ -140,8 +140,22 @@ resumindo: existe alguns tipos de branch, as mais usadas são branch de features
 
 ## [Curso de Git e GitHub - 2023] Aula 6.1: na prática - git push, pull requests & code reviews.
 
+Você faz o pull request para pedir ao desenvolvedor no comando colocar a atualização da feature que vc fez na branch main
 
+# [Curso de Git e GitHub - 2023] Aula 7: Pull Requests
 
+Pull request: é pedir que seu código seja incluido no projeto!
+
+**Pull requestes de branchs públicas e privadas!**
+
+```
+**Privadas**: cria branch "short-live" a partir da branch de desenvolvimento e depois faz pull request"
+
+```
+```
+**Públicos**: você clona o repositório original (aqui vc não cria a branch, ou cria =D) e depois faz um pull request "
+     
+```
 
 ## Plugins
 
