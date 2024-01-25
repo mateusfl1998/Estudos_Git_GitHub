@@ -184,7 +184,17 @@ Fluxo de ações para solução de conflitos: https://prnt.sc/aaZ8icTpIT_J
 
 # [Curso de Git e GitHub - 2023] Aula 8.1: na prática - resolvendo conflitos.
 
+Essa aula foi mais de prática. 
 
+Para apagar uma branch local  
+
+**git branch -d 'nome da branch'**
+
+Para apagar uma branch remota 
+
+**git branch -d origin 'nome da branch'**
+
+# git[Curso de Git e GitHub - 2023] Aula 9: git stash
 
 
 | Plugin | README |
