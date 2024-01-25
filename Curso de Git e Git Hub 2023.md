@@ -1,5 +1,6 @@
 #### Fazer:
 - Tentar fazer as alterações
+- Ver boas práticas de programação
 
 ## [Curso de Git e GitHub - 2023] Aula 1: Versionamento de Código
 
@@ -157,10 +158,34 @@ Pull request: é pedir que seu código seja incluido no projeto!
      
 ```
 
-## Plugins
+#### Code Review:
+Aula de como funciona: https://prnt.sc/jFNza43Tlxkh
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+## [Curso de Git e GitHub - 2023] Aula 8: git merge & conflitos
+
+**O que são conflitos:** Por exemplo você escreveu x na linha de código 10 de um arquivo, e eu também escrevi na linha 10 y.Ai na hora da gente integrar nossos códigos, nós temos um conflito 
+
+_Comandos que podem gerar conflitos:_ merge,rebase, pull, stash, apply
+
+**Como resolver**: 
+
+- Escolher manter 1 ou a outra alteração
+- Inserir as 2 alterações. Qual linha vai aparecer primeiro?
+- Remover as 2 alterações
+- Cancelar o Merge
+
+Fluxo de solução: https://prnt.sc/63uZKmqxgRGf
+
+Todo dia antes de codar, faça o pull do código
+
+**DICA**: resolva os conflitos o mais rápido possível. Pois se não resolver, pode ir surgindo mais conflitos 
+
+Fluxo de ações para solução de conflitos: https://prnt.sc/aaZ8icTpIT_J
+
+# [Curso de Git e GitHub - 2023] Aula 8.1: na prática - resolvendo conflitos.
+
+
+
 
 | Plugin | README |
 | ------ | ------ |
