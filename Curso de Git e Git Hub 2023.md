@@ -230,10 +230,6 @@ Cuidado ao utilizar o git reset, **é melhor utilizar o git revert**
 
 # [Curso de Git e GitHub - 2023] Aula 10.1: na prática - desfazendo alterações com git revert.
 
-Aula mais pratica, comandos utilizados:
-
-git revert HEAD
-
 > Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
 
 Verify the deployment by navigating to your server address in
