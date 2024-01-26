@@ -1,5 +1,3 @@
-Link do Curso: 
-
 #### Fazer:
 - Tentar fazer as alterações
 - Ver boas práticas de programação
@@ -55,7 +53,6 @@ Histórico de alterações comitadas (commit story)
 - git branch -M 'novo nome' - (renomeia a branch atual)
 - git remote add origin 'url do repositório' (informa o diretório que vamos conectar)
 - git remote get-url origin
-- git --set-upstream origin nome da branch
 
 ## [Curso de Git e GitHub - 2023] Aula 4: setup e configuração do ambiente de programação para GIT
 
@@ -210,25 +207,6 @@ git stash pop: recuperar do stash
 
 Mantendo sua branch atualizada
 
-Aula mais prática!
-
-**Deletar a branch local:** git branch -d nome da branch
-
-**Deletar a branch remota** git push -d origin nome da branch
-
-# [Curso de Git e GitHub - 2023] Aula 10: git revert & git reset
-
-git revert: comando para desfazer mudançase em um repositório 
-
-ele cria um commit novo que inverte todas as alterações desejadas!
-
-mapa ilustratório: https://prnt.sc/6uKF9ZEiaaik
-
-a diferença do git revert para o git reset: é que o git reset desfaz as alterações do commit 
-
-Cuidado ao utilizar o git reset, **é melhor utilizar o git revert**
-
-# [Curso de Git e GitHub - 2023] Aula 10.1: na prática - desfazendo alterações com git revert.
 
 > Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
 
